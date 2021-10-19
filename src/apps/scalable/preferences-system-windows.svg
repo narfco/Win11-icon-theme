@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
    </cc:Work>
   </rdf:RDF>
  </metadata>
@@ -16,18 +17,16 @@
   <style type="text/css"/>
   <style type="text/css"/>
   <style type="text/css"/>
-  <linearGradient id="linearGradient1229" x1="17" x2="17" y1="7" y2="51" gradientTransform="matrix(.26458 0 0 .26458 6.3044 3.138)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#6c7378" offset="0"/>
-   <stop stop-color="#42464a" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient1242" x1="-9" x2="45" y1="50" y2="50" gradientTransform="matrix(.26458 0 0 .26458 6.3044 3.138)" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient1242" x1="-9" x2="45" y1="50" y2="50" gradientTransform="matrix(1.037 0 0 1.037 13.333 1.9831)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#a1aab3" offset="0"/>
    <stop stop-color="#818990" offset="1"/>
   </linearGradient>
+  <linearGradient id="linearGradient864" x1="387.55" x2="413.57" y1="531.67" y2="531.6" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3fe3e7" offset="0"/>
+   <stop stop-color="#066bbc" offset="1"/>
+  </linearGradient>
  </defs>
  <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
- <g transform="matrix(3.9194 0 0 3.9194 -11.376 -10.316)" stroke-linecap="round" stroke-linejoin="round">
-  <rect x="3.9232" y="4.9756" width="14.287" height="11.641" ry=".54354" fill="url(#linearGradient1229)" stroke-width=".53429" style="paint-order:stroke fill markers"/>
-  <path d="m3.9232 15.838v0.23564c0 0.30112 0.2425 0.54362 0.54363 0.54362h13.2c0.30112 0 0.54363-0.2425 0.54363-0.54362v-0.23564z" fill="url(#linearGradient1242)" stroke-width=".52916" style="paint-order:stroke fill markers"/>
- </g>
+ <rect x="4.0006" y="9.1854" width="55.996" height="45.626" ry="2.1304" fill="url(#linearGradient864)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0941" style="paint-order:stroke fill markers"/>
+ <path d="m4.0006 51.759v0.92357c0 1.1802 0.95045 2.1307 2.1307 2.1307h51.736c1.1802 0 2.1307-0.95046 2.1307-2.1307v-0.92357z" fill="url(#linearGradient1242)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.074" style="paint-order:stroke fill markers"/>
 </svg>

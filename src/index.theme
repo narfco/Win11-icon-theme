@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Win11
-Comment=MacOSX style icon theme for linux.
+Name=narfco
+Comment=Narfco icon theme.
 Inherits=Numix-Circle-Light,Adwaita,hicolor
 Example=folder
 
