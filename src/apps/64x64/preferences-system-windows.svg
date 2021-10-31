@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <linearGradient id="linearGradient1242" x1="-9" x2="45" y1="50" y2="50" gradientTransform="matrix(1.037 0 0 1.037 13.333 1.9831)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a1aab3" offset="0"/>
+   <stop stop-color="#818990" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient864" x1="387.55" x2="413.57" y1="531.67" y2="531.6" gradientTransform="matrix(2.1429,0,0,2.1429,-826.36,-1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3fe3e7" offset="0"/>
+   <stop stop-color="#066bbc" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <rect x="4.0006" y="9.1854" width="55.996" height="45.626" ry="2.1304" fill="url(#linearGradient864)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0941" style="paint-order:stroke fill markers"/>
+ <path d="m4.0006 51.759v0.92357c0 1.1802 0.95045 2.1307 2.1307 2.1307h51.736c1.1802 0 2.1307-0.95046 2.1307-2.1307v-0.92357z" fill="url(#linearGradient1242)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.074" style="paint-order:stroke fill markers"/>
+</svg>
